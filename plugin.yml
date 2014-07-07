@@ -1,0 +1,7 @@
+name: ClaimRegion
+main: org.fightidiocy.Plugins.ClaimRegion
+version: 1.0
+depend: [WorldEdit, WorldGuard, Register]
+commands:
+   claim:
+      description: Allows you to claim a protect region using $
